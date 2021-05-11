@@ -1,0 +1,31 @@
+{
+	"details":[
+		{
+			"name":"lg g8x",
+			"image":"lgg8x.jfif",
+			"originalprice":"70000",
+			"offerprice":"25000"
+		},
+
+		{
+			"name":"Realme 7",
+			"image":"realme7.jfif",
+			"originalprice":"25000",
+			"offerprice":"20000"
+		},
+		{
+			"name":"iphone 12",
+			"image":"iphone12.jfif",
+			"originalprice":"90000",
+			"offerprice":"80000"
+		},
+		{
+			"name":"oneplus 9",
+			"image":"oneplus9.jfif",
+			"originalprice":"50000",
+			"offerprice":"40000"
+		}
+
+
+	]
+}
